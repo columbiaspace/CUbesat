@@ -8,4 +8,4 @@ RTL-SDR quick start guide: http://www.rtl-sdr.com/rtl-sdr-quick-start-guide/
 
 After set-up, it looks like this:
 
-[[https://github.com/columbiaspace/CUbesat/blob/master/raw/images/RTL.PNG|alt=RTL]]
+![alt text](https://github.com/columbiaspace/CUbesat/blob/master/raw/images/RTL.PNG)
