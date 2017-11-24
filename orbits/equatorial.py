@@ -1,0 +1,1 @@
+# Calculate Equatorial Orbit for CubeSat Design 
